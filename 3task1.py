@@ -8,3 +8,7 @@ def factorial(n):
 
 result=factorial(6)
 print(result)
+
+OUTPUT
+PS C:\Users\SANIYA\OneDrive\Desktop\dodothecoder> & "C:/Program Files/Python313/python.exe" c:/Users/SANIYA/OneDrive/Desktop/dodothecoder/3task1.py
+720
